@@ -13,7 +13,9 @@ namespace xadrez_console
     {
       Posicao posicao = new Posicao( 8, 8 );
 
-      Tabuleiro tabuleiro = new Tabuleiro( 8, 8 );
+      Tabuleiro tab = new Tabuleiro( 8, 8 );
+
+      Tela.imprimirTabuleiro( tab );
 
       Console.Write( posicao );
 

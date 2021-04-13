@@ -48,6 +48,7 @@
     <Compile Include="NTabuleiro\Peca.cs" />
     <Compile Include="NTabuleiro\Posicao.cs" />
     <Compile Include="NTabuleiro\Tabuleiro.cs" />
+    <Compile Include="Tela.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
